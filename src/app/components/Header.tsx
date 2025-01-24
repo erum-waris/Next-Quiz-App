@@ -96,7 +96,7 @@ export default function Header() {
             </li>
             <li>
               <Link
-                href="/advanced-quiz"
+                href="/advance-quiz"
                 className="hover:underline"
                 onClick={toggleMenu}
               >
