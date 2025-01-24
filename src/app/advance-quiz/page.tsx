@@ -248,7 +248,7 @@ export default function AdvanceQuiz() {
           <h1 className="text-3xl font-bold mb-8 text-center">Advance Level Quiz</h1>
           <button  className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">
               <Link href="/">
-            Bext of Luck Go Home
+            Best of Luck Go Home
               </Link>
           </button>
           <Quiz questions={advanceQuestions} />
